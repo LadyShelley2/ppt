@@ -6,7 +6,7 @@ files: /js/demo.js,/css/demo.css
 
 [slide]
 
-# test2
+# test
 ## 演讲者：zhangle
 
 [slide]
@@ -53,3 +53,9 @@ alert('nodeppt');
 nodeppt是基于nodejs写的支持 **Markdown!** 语法的网页PPT，当前版本：1.4.1
 
 Github：https://github.com/ksky521/nodePPT
+
+[slide]
+## 使用LaTex公式：
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a}.    s = ut + \frac{1}{2}at^2 $$
+矩阵：\\( x = {\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \end{bmatrix}}  \\)
+
