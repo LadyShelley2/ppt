@@ -1,4 +1,4 @@
-title: test
+title: test2
 speaker: zhangle
 url: https://github.com/ksky521/nodePPT
 transition: cards
@@ -6,7 +6,7 @@ files: /js/demo.js,/css/demo.css
 
 [slide]
 
-# test
+# test2
 ## 演讲者：zhangle
 
 [slide]
