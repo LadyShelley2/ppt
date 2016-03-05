@@ -1,0 +1,12 @@
+{
+	"name": "nodeppt_web_server",
+  	"version": "1.0.0",
+  	"description": "nodeppt for node web server",
+	"scripts":{
+		"start":"node index.js"
+	},
+	"main":"index.js",
+	"dependencies":{
+		"nodeppt":"1.4.1"
+	}
+}
