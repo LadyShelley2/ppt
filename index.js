@@ -5,6 +5,6 @@ var cmd={
 	port: process.env.OPENSHIFT_NODEJS_PORT || '8080',
 	socket:'support websocket mutil screen controller',
 	watch:'livereload',
-	dir:''
+	dir:'ppts'
 }
 nodePPT.start(cmd);
