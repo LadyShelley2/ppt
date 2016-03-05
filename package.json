@@ -2,6 +2,12 @@
 	"name": "nodeppt_web_server",
   	"version": "1.0.0",
   	"description": "nodeppt for node web server",
+  	"author": "",
+	"license": "ISC",
+	"repository": {
+    	"type": "git",
+    	"url": "git://github.com/zl810881283/ppt.git"
+    },
 	"scripts":{
 		"start":"node index.js"
 	},
