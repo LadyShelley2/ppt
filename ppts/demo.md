@@ -3,7 +3,7 @@ speaker: 三水清
 url: https://github.com/ksky521/nodePPT
 transition: slide3
 files: /js/demo.js,/css/demo.css,/js/zoom.js
-theme: moon
+theme: color
 usemathjax: yes
 
 [slide]
