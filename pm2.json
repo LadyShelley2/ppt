@@ -8,7 +8,8 @@
     "node_args": [],
     "args": [],
     "env": {
-
+        "NODE_PPT_HOST":"127.0.0.1",
+        "NODE_PPT_PORT":"8080"
     }
   }]
 }
