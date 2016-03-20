@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "ndoeppt",
+    "name": "nodeppt",
     "script": "index.js",
     "cwd": ".",
     "max_memory_restart": "1G",
