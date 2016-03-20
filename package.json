@@ -9,9 +9,9 @@
     "url": "git://github.com/zl810881283/ppt.git"
   },
   "scripts": {
-  	"preinstall": "npm i -g pm2",
-    "start": "pm2 startOrReload pm2.json",
-    "show":"node index.js"
+    "preinstall": "npm i -g pm2",
+    "start": "node index.js",
+    "pm2":"pm2 startOrReload pm2.json"
   },
   "main": "index.js",
   "dependencies": {
