@@ -1,0 +1,14 @@
+{
+  "apps": [{
+    "name": "ndoeppt",
+    "script": "index.js",
+    "cwd": ".",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+
+    }
+  }]
+}

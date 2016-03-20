@@ -1,7 +1,8 @@
 var nodePPT=require('nodeppt/lib/nodePPT.js');
+var ipv4 = require('ipv4');
 
 var cmd={
-	host:process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1',
+	host:process.env.OPENSHIFT_NODEJS_IP || ipv4 || '0.0.0.0',
 	port: process.env.OPENSHIFT_NODEJS_PORT || '8080',
 	socket:'support websocket mutil screen controller',
 	watch:'livereload',

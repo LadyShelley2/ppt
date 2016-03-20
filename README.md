@@ -1,7 +1,7 @@
 # node ppt for openshift web 
 ## usage
 ```shell
-npm install
+npm install --registry=https://registry.npm.taobao.org
 npm start
 ```
 ## default setting

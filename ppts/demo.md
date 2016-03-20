@@ -2,7 +2,7 @@ title: nodeppt markdown 演示
 speaker: 三水清
 url: https://github.com/ksky521/nodePPT
 transition: slide3
-files: /js/demo.js,/css/demo.css,/js/zoom.js
+files: /js/demo.js,/css/demo.css,/js/MathJax.js
 theme: color
 usemathjax: yes
 
@@ -13,9 +13,9 @@ usemathjax: yes
 [slide]
 ## 为什么选择nodePPT
 ----
-* 基于GFM的markdown语法编写 {:&.rollIn}
+* 基于GFM的markdown语法编写 {:&.fadeIn}
 * 支持html混排，再复杂的demo也可以做！
-* 导出网页或者pdf更容易分享
+* 导出网页或者pdf更容易分享 
 * 支持单页背景图片
 * 多种模式：纵览模式，双屏模式，远程控制
 * 可以使用画板，可以使用note做备注
