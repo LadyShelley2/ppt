@@ -3,16 +3,14 @@
 
 ```shell
 npm install
-# install pm2 global
-npm install -g pm2
 ```
 
 or (for the chinese people,living behind GFW)
 
 ```shell
 npm install --registry=https://registry.npm.taobao.org
-npm install -g pm2 --registry=https://registry.npm.taobao.org
 ```
+if has error, please add `sudo`,
 
 then
 
