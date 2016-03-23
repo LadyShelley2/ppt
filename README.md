@@ -11,7 +11,7 @@ or (for the chinese people,living behind GFW)
 npm install --registry=https://registry.npm.taobao.org
 ```
 
-if has error, please add `sudo`,for it install pm2 global
+if has error, please add `sudo`, for it installs pm2 global
 
 then (using node, not recommended)
 
