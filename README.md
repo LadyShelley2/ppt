@@ -1,4 +1,4 @@
-# node ppt for openshift web 
+# nodeppt for web 
 ## usage
 
 ```shell
@@ -10,12 +10,19 @@ or (for the chinese people,living behind GFW)
 ```shell
 npm install --registry=https://registry.npm.taobao.org
 ```
-if has error, please add `sudo`,
 
-then
+if has error, please add `sudo`,for it install pm2 global
+
+then (using node, not recommended)
 
 ```shell
 npm start
+```
+
+or (using pm2, recommended)
+
+```shell
+npm run pm2
 ```
 
 ## default setting
