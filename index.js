@@ -1,4 +1,4 @@
-var nodePPT=require('nodeppt/lib/nodePPT.js');
+var nodePPT=require('./lib/nodePPT.js');
 var ipv4 = require('ipv4');
 
 var cmd={

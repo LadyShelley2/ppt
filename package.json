@@ -4,6 +4,10 @@
   "description": "nodeppt for node web server",
   "author": "",
   "license": "ISC",
+  "author": {
+    "name": "Zale",
+    "email": "810881283@qq.com"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/zl810881283/ppt.git"
@@ -15,6 +19,26 @@
   },
   "main": "index.js",
   "dependencies": {
-    "nodeppt": "1.4.1"
-  }
+    "colors": ">=0.6.0-1",
+    "commander": "2.9.0",
+    "connect": "2.11.0",
+    "cookie": ">=0.1.0",
+    "ejs": "0.8.4",
+    "ipv4": "0.0.4",
+    "read": ">=1.0.4",
+    "socket.io": "1.3.3",
+    "chokidar": "1.0.0-rc3",
+    "mathjax": "2.5.1"
+  },
+  "keywords": [
+    "presentation",
+    "powerpoint",
+    "slideshow",
+    "keynote",
+    "ppt",
+    "slide",
+    "revealjs",
+    "impressjs",
+    "markdown"
+  ]
 }
