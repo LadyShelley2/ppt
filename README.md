@@ -1,30 +1,30 @@
-# nodeppt for web 
-## usage
+# Nodeppt for Web 
+## Usage
 
 ```shell
 npm install
 ```
 
-or (for the chinese people,living behind GFW)
+or (recommend for the chinese people,living behind GFW)
 
 ```shell
 npm install --registry=https://registry.npm.taobao.org
 ```
 
-if has error, please add `sudo`, for it installs pm2 global
+If has error, please add `sudo`, for it installs pm2 global
 
-then (using node, not recommended)
+then (using node, not recommended in production environment)
 
 ```shell
 npm start
 ```
 
-or (using pm2, recommended)
+or (using pm2, recommended in production environment)
 
 ```shell
 npm run pm2
 ```
 
-## default setting
+## Default Setting
 - ip and port set to openshift env if exist, otherwise 127.0.0.1:8080
 - ppt direction set to `ppts/`
